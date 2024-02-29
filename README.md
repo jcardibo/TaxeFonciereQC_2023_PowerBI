@@ -36,7 +36,8 @@ The dataset is sourced from Données Québec, a repository of public data. This 
 
 ## 🤝 Contributing
 
-Contributions are welcome! 🎉 If you have suggestions for improving the data cleaning process, additional analyses, or any other enhancements, feel free to open an issue or submit a pull request.
+Contributions are welcome! 🎉 If you have suggestions for improving the data cleaning process, additional analyses, or any other enhancements, feel free to open an issue or submit a pull request. I'm also keen on collaborating with non-profit organizations and individuals passionate about data analysis.
+
 ## 📜 License
 
 This project is available under the Creative Commons License - see the LICENSE file for details.
