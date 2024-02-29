@@ -1,4 +1,5 @@
-# 🌆 Taxe Foncière Québec 2023 - PowerBI Analysis
+# 🌆 Quebec property assessment 2023 
+## A deep dive into metropolitan and agglomerated municipal valuations
 
 ## 📌 Project Overview
 
@@ -15,6 +16,8 @@ The primary objectives of this project are:
 ## 🗂 Data Source
 
 The dataset is sourced from Données Québec, a repository of public data. This project uses the "Québec MRC Urban Agglomeration 2023" dataset, focusing on taxation and property assessment information.
+
+You can also find the transformed dataset on [Kaggle]()
 
 ## 🔄 Workflow Overview
 
@@ -39,7 +42,7 @@ The dataset is sourced from Données Québec, a repository of public data. This 
     Explore the Python Notebooks: Check out the /notebooks directory for the Jupyter notebooks used for data cleaning and preparation.
 
     View the Cleaned Data: The /data directory holds the CSV files ready for import into PowerBI.
-    
+
     Interact with the PowerBI Dashboards: Find instructions and resources in the /dashboards directory.
 
 ## 🤝 Contributing
