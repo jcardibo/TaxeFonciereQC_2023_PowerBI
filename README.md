@@ -17,7 +17,7 @@ The primary objectives of this project are:
 
 The dataset is sourced from Données Québec, a repository of public data. This project uses the "Québec MRC Urban Agglomeration 2023" dataset, focusing on taxation and property assessment information.
 
-You can also find the transformed dataset on [Kaggle]()
+You can also find the transformed dataset on [Kaggle](https://www.kaggle.com/datasets/jcardibo/property-tax-for-the-province-of-quebec-2023/data)
 
 ## 🔄 Workflow Overview
 
